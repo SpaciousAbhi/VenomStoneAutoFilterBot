@@ -90,10 +90,10 @@
 <details>
 <summary><b>Basic Commands</b></summary>
 ```
-start - check bot alive
-settings - get settings 
-logs - to get the rescent errors
-stats - to get status of files in db.
+  start - check bot alive
+  settings - get settings 
+  logs - to get the rescent errors
+  stats - to get status of files in db.
 filter - add manual filters
 filters - view filters
 connect - connect to PM.
