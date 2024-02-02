@@ -5,7 +5,7 @@ My Name is {bot}.
 
 I Can Provide You Any Movies & Series For You Just Add Me in Your Group or Join Our Group.</b>"""
     
-    HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
+    HELP_TXT = "<b>Hey {}\nHere is my help!"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
 ✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/IAmVenomStone>Venom Stone</a>
@@ -15,7 +15,7 @@ I Can Provide You Any Movies & Series For You Just Add Me in Your Group or Join 
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: VENOM STONE MOVIES BOT ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/SpaciousAbhi/VenomStoneAutoFilterBot>VENOM STONE MOVIES BOT</a>
+- Source Code Here ◉› :<a href=https://github.com/SpaciousAbhi/VenomStoneAutoFilterBot>VENOM STONE MOVIES BOT</a>
 
 <b>ᴅᴇᴠ: <a herf=https://t.me/IAmVenomStone>Venom Stone</a></b>"""
 
